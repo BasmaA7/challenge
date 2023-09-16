@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694876468 source:c:\users\youcode\desktop\challenge\chall1boucle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
